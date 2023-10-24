@@ -1,0 +1,38 @@
+*{
+    font-family: 'Rubik', sans-serif;
+}
+header, footer{
+    background-color: #ffbe6e;
+}
+header h1, .card-header h3{
+    font-family: 'Lobster', cursive;
+    font-weight: normal;
+    color: #fff;
+}
+section h4{
+    font-family: 'Lobster', cursive;
+    font-weight: normal;
+    color: #ffbe6e;
+}
+.nav-link, .card-footer, footer{
+    color: #fff;
+}
+#carousel-section, #cards-section{
+    background-color: #ffe4c4;
+}
+.carousel-item img{
+    height: 41.75vw;
+}
+.card-header, .card-footer{
+    background-color: #ffbe6e;
+}
+.card-body{
+    background-color: #ffe4c480;
+}
+.btn-primary{
+    background-color: #ffbe6e;
+    border: none;
+}
+.btn-primary:hover{
+    background-color: rgba(210, 105, 30, 0.8);
+}
